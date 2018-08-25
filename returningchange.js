@@ -2,7 +2,7 @@
 and how many of them we need to make up that amount.
 The coins available are 100,25, 10, 5 or 1 cents.*/
 
-console.log(makeChange(5.13));
+console.log(makeChange(3.12));
 
 
 
